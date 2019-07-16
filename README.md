@@ -1,1 +1,1 @@
-# tofu-manifest
+# dojo-manifest
