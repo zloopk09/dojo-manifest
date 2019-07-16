@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-     <remote name="github" fetch="ssh://git@github.com" />
+     <remote name="github" fetch="." />
 
      <default revision="master" remote="github" sync-j="6" />
 
-     <project name="dojo-app"              path="app"/>
-     <project name="dojo-home"             path="home"/>
-     <project name="dojo-article"          path="article"/>
-     <project name="dojo-search"           path="search"/>
-     <project name="dojo-user"             path="user"/>
-     <project name="dojo-setting"          path="setting"/>
+     <project name="dojo-app"              path="dojo_app"/>
+     <project name="dojo-home"             path="module_home"/>
+     <project name="dojo-article"          path="module_article"/>
+     <project name="dojo-discovery"        path="module_discovery"/>
+     <project name="dojo-user"             path="module_user"/>
      <project name="dojo-utils"            path="lib_utils"/>
      <project name="dojo-network"          path="lib_network"/>
      <project name="dojo-widget"           path="lib_widget"/>
      <project name="dojo-debug"            path="lib_debug"/>
-     
+
 </manifest>
