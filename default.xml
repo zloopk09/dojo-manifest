@@ -9,6 +9,7 @@
      <project name="dojo-article"          path="module_article"/>
      <project name="dojo-discovery"        path="module_discovery"/>
      <project name="dojo-user"             path="module_user"/>
+     <project name="dojo-base"             path="module_base"/>
      <project name="dojo-utils"            path="lib_utils"/>
      <project name="dojo-network"          path="lib_network"/>
      <project name="dojo-widget"           path="lib_widget"/>
