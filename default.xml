@@ -11,6 +11,7 @@
      <project name="dojo-user"             path="module_user"/>
      <project name="dojo-base"             path="module_base"/>
      <project name="dojo-utils"            path="lib_utils"/>
+     <project name="dojo-ui"               path="lib_ui"/>
      <project name="dojo-network"          path="lib_network"/>
      <project name="dojo-widget"           path="lib_widget"/>
      <project name="dojo-debug"            path="lib_debug"/>
